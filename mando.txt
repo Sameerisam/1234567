@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 fgfgxggyg
 jijisyippgfda
+=======
+sfdgdyippgfda
+>>>>>>> main
